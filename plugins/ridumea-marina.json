@@ -1,0 +1,14 @@
+{
+    "id": "marina",
+    "name": "Marina Dock",
+    "capabilities": ["daemon", "dankbar-widget"],
+    "category": "utilities",
+    "repo": "https://github.com/ridumea/dms-marina-dock",
+    "author": "Raimond Dumea",
+    "description": "A dock for niri that mirrors your layout: column stacks, floating windows, drag to rearrange and magnification, at a screen edge or in a DMS bar",
+    "dependencies": [],
+    "compositors": ["niri"],
+    "distro": ["any"],
+    "screenshot": "https://github.com/ridumea/dms-marina-dock/raw/main/preview.png",
+    "requires_dms": ">=1.6.2"
+}
