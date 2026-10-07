@@ -1,6 +1,7 @@
 {
     "id": "marina",
     "name": "Marina Dock",
+    "icon": "sailing",
     "capabilities": ["daemon", "dankbar-widget"],
     "category": "utilities",
     "repo": "https://github.com/ridumea/dms-marina-dock",

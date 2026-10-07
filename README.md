@@ -4,7 +4,8 @@ Plugins by Raimond Dumea for [DankMaterialShell](https://danklinux.com).
 
 To use it, open **Settings → Plugins → Registries** in DMS, add the name
 `ridumea` and the URL `https://github.com/ridumea/dms-registry.git`,
-then install plugins from **Browse**.
+then open **Browse**, click **Show 3rd Party** and confirm (DMS hides plugins
+from other registries by default), and install the plugins you want.
 
 | Plugin | |
 |---|---|
